@@ -153,7 +153,7 @@ C++ STL (Standard Template Library) 是算法竞赛中的得力助手，它提�
 1.  **`sort(begin, end, [cmp])`**:
     *   对范围 `[begin, end)` 内的元素进行排序。
     *   默认升序。可提供自定义比较函数 `cmp`。
-    *   时间复杂度：平均 O(N log N)。
+    *   时间复杂度：平均 O(Nlog N)。
     *   **应用:** 最常用的算法之一。
 
 2.  **`reverse(begin, end)`**:
